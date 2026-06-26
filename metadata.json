@@ -1,0 +1,6 @@
+{
+  "name": "Jesu ndiIshe",
+  "description": "Multilingual Christian Hymn Book app with comprehensive search and bookmarking support for Shona, Chewa, and Ndebele congregations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
